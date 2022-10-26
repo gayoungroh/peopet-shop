@@ -123,28 +123,28 @@ $pri-color-3 : #dedede;
           position: relative;
           height: 150px;
 
-          >.btn{
-            position: absolute;
-            top: 50%;
-            left: 0;
-            width: 56px;
-            height: 36px;
-            margin:0 auto;
-            margin-top: -25px;
-            cursor: pointer;
+          // >.btn{
+          //   position: absolute;
+          //   top: 50%;
+          //   left: 0;
+          //   width: 56px;
+          //   height: 36px;
+          //   margin:0 auto;
+          //   margin-top: -25px;
+          //   cursor: pointer;
 
-            >.bar{
-              display: block;
-              width: 32px;
-              height: 2px;
-              margin:0 auto 8px;
-              background-color: #333333;
+          //   >.bar{
+          //     display: block;
+          //     width: 32px;
+          //     height: 2px;
+          //     margin:0 auto 8px;
+          //     background-color: #333333;
 
-              &:nth-child(1){
-                margin-top:9px;
-              }
-            }//end of .bar
-          }//end of .btn
+          //     &:nth-child(1){
+          //       margin-top:9px;
+          //     }
+          //   }//end of .bar
+          // }//end of .btn
 
           >h1.logo{
             position: absolute;
